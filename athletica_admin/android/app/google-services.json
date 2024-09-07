@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251148936784",
+    "project_id": "athletica-39b15",
+    "storage_bucket": "athletica-39b15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251148936784:android:c9c49b3c088f8d73bf1355",
+        "android_client_info": {
+          "package_name": "com.example.athletica_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6fOPtJJA3j5eXfgcm_X32qIp2RBaiIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251148936784:android:42a8fe12cfaf75bebf1355",
+        "android_client_info": {
+          "package_name": "com.example.athleticaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6fOPtJJA3j5eXfgcm_X32qIp2RBaiIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
